@@ -4,8 +4,8 @@
 </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&weight=600&size=28&pause=1000&color=2424B5E3&center=true&vCenter=true&width=600&height=50&lines=Senior&emsp;Full&emsp;Stack&emsp;Developer;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
 </p>
-## *Skill Set*
 
+## *Skill Set*
 
 <p algin="right" width="320px">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;">
