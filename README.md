@@ -4,9 +4,6 @@
 </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&weight=600&size=28&pause=1000&color=2424B5E3&center=true&vCenter=true&width=600&height=100&lines=Senior&emsp;Full&emsp;Stack&emsp;Developer;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
 </p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&pause=1000&width=435&lines=Senior+Full+Stack+developer;Make+it+work%2C+make+it+right%2C+make+it+fast"></p>
-
-<img align="right" height="96" src="https://github-widgetbox.vercel.app/api/profile?username=stack-guru&data=followers,repositories,stars,commits">
 
 ## *Skill Set*
 
