@@ -2,7 +2,7 @@
 <p align="center">
     <h1 align="center">✩&emsp;Fancy&emsp;✩&emsp;King&emsp;✩&emsp;0714&emsp;✩</h1>
 </p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&weight=600&size=28&pause=1000&color=2424B5E3&center=true&vCenter=true&width=700&height=80&lines=Senior+Full+Stack+Developer;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&weight=700&size=28&pause=1000&color=2424B5E3&center=true&vCenter=true&width=700&height=80&lines=Senior+Full+Stack+Developer;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
 </p>
 <!--
 **FancyKing0714/FancyKing0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
