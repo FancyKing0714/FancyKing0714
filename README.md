@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 <p align="center">
-    <h1 align='center' text-color="red">✩&emsp;Fancy&emsp;✩&emsp;King&emsp;✩&emsp;0714&emsp;✩</h1>
+    <h1 align='center'>✩&emsp;Fancy&emsp;✩&emsp;King&emsp;✩&emsp;0714&emsp;✩</h1>
 </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&weight=700&size=28&pause=1000&color=2424B5E3&center=true&vCenter=true&width=700&height=80&lines=Senior&emsp;Full&emsp;Stack&emsp;Developer;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
 </p>
