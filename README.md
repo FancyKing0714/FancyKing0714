@@ -29,12 +29,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027027-c99f66d7-6b06-4e97-b960-1eaf54fa64c4.svg" width="50" alt="laravel" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027054-8096830d-efad-4e8d-978b-2136a75a50c7.svg" width="50" alt="django" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027080-6bea84b1-e7fb-4fa4-9602-a77043e7f797.svg" width="50" alt="flask" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917541-b49543ba-a527-4ea7-8b4f-7e1618f560e2.svg" width="50" alt="meteor" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045207-650becf8-3df2-4f75-9136-5b226b5eaed8.png" width="50" alt="kotlin" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186046482-aa19c836-d723-4331-b797-bb9874d3a15f.png" width="50" alt="ios" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186047497-93bda600-d669-48e6-afc8-600cab80b2a8.png" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="app" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="VS" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
