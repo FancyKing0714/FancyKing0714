@@ -30,16 +30,11 @@
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027054-8096830d-efad-4e8d-978b-2136a75a50c7.svg" width="50" alt="django" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186027080-6bea84b1-e7fb-4fa4-9602-a77043e7f797.svg" width="50" alt="flask" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186043571-7390d603-7b42-46bb-9b4f-8e825504418c.png" width="50" alt="android" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045219-49596b58-9a53-4688-83eb-8673aed69b7c.png" width="50" alt="ionic" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/166917501-936a1fe5-fae1-4fd7-95e1-b811bfa8cc45.svg" width="50" alt="app" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917486-146d3393-a4a6-470f-be1e-0791516d422d.svg" width="50" alt="VS" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186611812-c849fb14-df32-4419-9d9b-e455494e6062.svg" width="50" alt="mongo" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917553-eccece2f-4ad0-4cb1-aa24-01fa956999ec.svg" width="50" alt="mysql" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186027351-fe0c9195-6392-42d2-8991-f21f4cda82a7.svg" width="50" alt="firebase" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186045243-ceb3052a-8fb2-44ad-9a8a-ce445a21235f.png" width="50" alt="docker" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186045949-1fb8064c-414e-4cf2-a3ca-c924a2e78cbc.png" width="50" alt="git" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/186612155-d7d06a1d-ddc9-4049-81cf-50ebad958c7b.svg" width="50" alt="gitlab" style="max-width: 100%;">
-    <img height="50" src="https://user-images.githubusercontent.com/86986628/186612372-ac9f7cfd-79c2-41b4-8a03-3541ae005aa0.svg" width="50" alt="bitbuket" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="50" alt="flutter" style="max-width: 100%;">
     <img height="50" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="50" alt="flutter" style="max-width: 100%;">
