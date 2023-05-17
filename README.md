@@ -37,7 +37,5 @@
     <img height="60" src="https://user-images.githubusercontent.com/86986628/186612155-d7d06a1d-ddc9-4049-81cf-50ebad958c7b.svg" width="60" alt="gitlab" style="max-width: 100%;">
     <img height="60" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="60" alt="flutter" style="max-width: 100%;">
     <img height="60" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="60" alt="flutter" style="max-width: 100%;">
-    <img height="60" src="https://user-images.githubusercontent.com/86986628/166917503-65300634-43fe-42c6-b99b-d05fd62751bf.svg" width="60" alt="flutter" style="max-width: 100%;">
     <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
-    <img height="60" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="60" alt="flutter" style="max-width: 100%;">
 </p>
