@@ -1,10 +1,9 @@
-6857<!-- Hi there 👋 -->
+<!-- Hi there 👋 -->
 <p align="center">
     <h1 align='center'>✩&emsp;Fancy&emsp;✩&emsp;King&emsp;✩&emsp;0714&emsp;✩</h1>
 </p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Algerian&weight=700&size=28&pause=1000&color=9B49E3FF&center=true&vCenter=true&width=600&height=50&lines=Senior&emsp;Full&emsp;Stack&emsp;Developer;%2B7&emsp;Years&emsp;Of&emsp;Experience;Versatile+%7C+Familiar+%7C+High+Quality" alt="Typing SVG" />
 </p>
-"60
 ## *Skill Set*
 
 <p algin="right" width="320px">
