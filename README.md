@@ -40,5 +40,4 @@
     <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
     
     <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
-    <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
 </p>
