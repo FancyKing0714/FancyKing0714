@@ -38,8 +38,4 @@
     <img height="60" src="https://user-images.githubusercontent.com/86986628/166917456-dc0e14b7-8397-4d92-b671-cd0ca44fba80.svg" width="60" alt="flutter" style="max-width: 100%;">
     <img height="60" src="https://user-images.githubusercontent.com/86986628/166917469-dd9db3c6-19e8-4fe9-8f85-7b16c1d64fad.svg" width="60" alt="flutter" style="max-width: 100%;">
     <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
-    
-    <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
-    
-    <img height="60" src="https://user-images.githubusercontent.com/86986628/186612788-4c28e7d7-d0f9-4a00-a812-808284502e25.svg" width="60" alt="flutter" style="max-width: 100%;">
 </p>
